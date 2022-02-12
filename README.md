@@ -1,11 +1,10 @@
-### Hi there,  I'm Lucas Santos
-
-- 🔭 I’m currently working on Web Developer
-- 🌱 I’m currently learning Javascript and Deepening into HTML and CSS
-- 📫 How to reach me: Email: lucassq_@hotmail.com
+<div>
+  <h1 align="center">Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/lucas-santos-50625a174/"><i>Lucas Queiroz</i></a> 😃️</h1>
+  <p align="center">Atualmente estudo Desenvolvimento Web,  com as linguagens Javascript | HTML | CSS
+</div>
 
 <div align="center">
-  <a href="https://github.com/devlucaas
+  <a href="https://github.com/devlucaas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucaas&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucaas&layout=compact&langs_count=7&theme=dark"/>
 </div>
