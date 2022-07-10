@@ -1,25 +1,79 @@
-<div>
-  <h1 align="center">Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/lucas-santos-50625a174/"><i>Lucas Queiroz</i></a> 😃️</h1>
-  <p align="center">Atualmente estudo Desenvolvimento Web,  com as linguagens Javascript | HTML | CSS
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<h3 align="left">My name is Lucas Queiroz. I'm 18 years old.</h3>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<h4 align="left">✨ Studying programming since 2021<br>📚 Currently studying Java and Javascript<br>🎲 Computer Science at UEPB</h4>
+
+###
 
 <div align="center">
-  <a href="https://github.com/devlucaas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devlucaas&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucaas&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=My Github Stats&username=dev" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=dev" height="120" alt="languages graph"  />
 </div>
 
-##
+###
 
-<div> 
-  <a href="https://instagram.com/qlucas7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucassq_@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-santos-50625a174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+<h2 align="center">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="54" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="54" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="54" alt="javascript logo"  />
 </div>
+
+###
+
+<h2 align="center">Currently learning</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+</div>
+
+###
+
+<h2 align="center">Find me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucasqroz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="lucassq_@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/qlucas7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="center">Visits</h4>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/dev/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
