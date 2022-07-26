@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/devlucaas">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devlucaas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=My Github Stats&username=dev" height="170em" alt="stats graph"  />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucaas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
