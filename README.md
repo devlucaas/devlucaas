@@ -15,10 +15,10 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/devlucaas">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=My Github Stats&username=dev" height="150em" alt="stats graph"  />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucaas&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=devlucaas" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=devlucaas" height="150" alt="languages graph"  />
 </div>
+
 
 ###
 
